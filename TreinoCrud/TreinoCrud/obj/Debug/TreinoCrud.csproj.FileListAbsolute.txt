@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\bin\Debug\TreinoCrud.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\bin\Debug\TreinoCrud.exe
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\bin\Debug\TreinoCrud.pdb
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.exe
+c:\users\pc\documents\visual studio 2012\Projects\TreinoCrud\TreinoCrud\obj\Debug\TreinoCrud.pdb

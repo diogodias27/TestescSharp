@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\bin\Debug\CrudTest.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\bin\Debug\CrudTest.exe
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\bin\Debug\CrudTest.pdb
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\obj\Debug\CrudTest.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\obj\Debug\CrudTest.addFuncionario.resources
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\obj\Debug\CrudTest.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\obj\Debug\CrudTest.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\obj\Debug\CrudTest.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\obj\Debug\CrudTest.exe
+c:\users\pc\documents\visual studio 2012\Projects\CrudTest\CrudTest\obj\Debug\CrudTest.pdb
