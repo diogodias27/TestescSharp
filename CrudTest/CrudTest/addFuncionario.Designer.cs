@@ -51,7 +51,8 @@
             this.btnBuscar = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
             this.btnApagar = new System.Windows.Forms.Button();
-            this.label10 = new System.Windows.Forms.Label();
+            this.Label10 = new System.Windows.Forms.Label();
+            this.txtConsultar = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -209,6 +210,7 @@
             this.btnAdd.TabIndex = 18;
             this.btnAdd.Text = "Adicionar";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // btnSalvar
             // 
@@ -228,6 +230,7 @@
             this.btnBuscar.TabIndex = 20;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
+            this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
             // btnEditar
             // 
@@ -237,6 +240,7 @@
             this.btnEditar.TabIndex = 21;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // btnApagar
             // 
@@ -246,22 +250,31 @@
             this.btnApagar.TabIndex = 22;
             this.btnApagar.Text = "Apagar";
             this.btnApagar.UseVisualStyleBackColor = true;
+            this.btnApagar.Click += new System.EventHandler(this.btnApagar_Click);
             // 
-            // label10
+            // Label10
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(33, 9);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(85, 13);
-            this.label10.TabIndex = 23;
-            this.label10.Text = "Consultar Nome:";
+            this.Label10.AutoSize = true;
+            this.Label10.Location = new System.Drawing.Point(26, 19);
+            this.Label10.Name = "Label10";
+            this.Label10.Size = new System.Drawing.Size(85, 13);
+            this.Label10.TabIndex = 23;
+            this.Label10.Text = "Consultar Nome:";
+            // 
+            // txtConsultar
+            // 
+            this.txtConsultar.Location = new System.Drawing.Point(125, 19);
+            this.txtConsultar.Name = "txtConsultar";
+            this.txtConsultar.Size = new System.Drawing.Size(250, 20);
+            this.txtConsultar.TabIndex = 24;
             // 
             // addFuncionario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(458, 309);
-            this.Controls.Add(this.label10);
+            this.Controls.Add(this.txtConsultar);
+            this.Controls.Add(this.Label10);
             this.Controls.Add(this.btnApagar);
             this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.btnBuscar);
@@ -317,7 +330,8 @@
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.Button btnEditar;
         private System.Windows.Forms.Button btnApagar;
-        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label Label10;
+        private System.Windows.Forms.TextBox txtConsultar;
 
     }
 }
