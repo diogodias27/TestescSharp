@@ -1,0 +1,34 @@
+﻿@model IEnumerable<CrudAspMVC.Models.Produto>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Exibir Categoria</title>
+
+</head>
+    <body>
+
+        <h2>Categorias: @ViewBag.Categoria</h2>
+        <hr />
+        <div>
+            <ul>
+                @foreach (var item in Model)
+                { 
+                    <li>
+                        @Html.ActionLink(item.Nome, "Detelhes", "Produto" , new 
+                   {
+                       @produtoid = item.ProdutoId,
+                   },null)
+                        <em>@Html.DisplayFor(modelitem => item.Categoria)</em>
+                        <em>@Html.DisplayFor(modelitem => item.Data)</em>
+                        <b>@Html.DisplayFor(modelitem => item.Preco)</b>
+
+                    </li>
+                }
+
+            </ul>
+
+        </div>
+    </body>
+    </html>
