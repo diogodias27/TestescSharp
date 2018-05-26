@@ -18,3 +18,4 @@ c:\users\pc\documents\visual studio 2012\Projects\CrudAspMVC\CrudAspMVC\bin\Syst
 c:\users\pc\documents\visual studio 2012\Projects\CrudAspMVC\CrudAspMVC\bin\System.Web.WebPages.Razor.xml
 c:\users\pc\documents\visual studio 2012\Projects\CrudAspMVC\CrudAspMVC\obj\Debug\CrudAspMVC.dll
 c:\users\pc\documents\visual studio 2012\Projects\CrudAspMVC\CrudAspMVC\obj\Debug\CrudAspMVC.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\CrudAspMVC\CrudAspMVC\obj\Debug\CrudAspMVC.csprojResolveAssemblyReference.cache
