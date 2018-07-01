@@ -1,0 +1,29 @@
+﻿@model MvcApp.Models.ModAluno
+
+@{
+    ViewBag.Title = "CadastroAluno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+
+@using (Html.BeginForm("ExibeCadastroAluno","CadastroAluno", null, FormMethod.Post))
+{
+    <fieldset>
+        <legend>Cadastro de aluno</legend>
+        <div>@Html.LabelFor(model => Model.IDaluno)</div>
+        <div>@Html.TextBoxFor(model => Model.IDaluno)</div>
+        
+        <div>@Html.LabelFor(model => Model.Nome)</div>
+        <div>@Html.TextBoxFor(model => Model.Nome)</div>
+
+        <div>@Html.LabelFor(model => Model.Email)</div>
+        <div>@Html.TextBoxFor(model => Model.Email)</div>
+
+        <div>
+            <input type ="submit" value ="Salvar" />
+            <br />
+        </div>
+        
+    </fieldset>
+}
