@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\bin\Debug\JoaoRibeiro.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\bin\Debug\JoaoRibeiro.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\bin\Debug\JoaoRibeiro.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\obj\Debug\JoaoRibeiro.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\obj\Debug\JoaoRibeiro.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\obj\Debug\JoaoRibeiro.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\obj\Debug\JoaoRibeiro.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\obj\Debug\JoaoRibeiro.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\JoaoRibeiro\JoaoRibeiro\obj\Debug\JoaoRibeiro.pdb
