@@ -1,0 +1,9 @@
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.GastoEmRestaurante.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb

@@ -1,0 +1,9 @@
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\bin\Debug\RestoDeDivisao.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\bin\Debug\RestoDeDivisao.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\bin\Debug\RestoDeDivisao.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\obj\Debug\RestoDeDivisao.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\obj\Debug\RestoDeDivisao.FrmRestoDaDivisão.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\obj\Debug\RestoDeDivisao.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\obj\Debug\RestoDeDivisao.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\obj\Debug\RestoDeDivisao.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\RestoDeDivisao\obj\Debug\RestoDeDivisao.pdb

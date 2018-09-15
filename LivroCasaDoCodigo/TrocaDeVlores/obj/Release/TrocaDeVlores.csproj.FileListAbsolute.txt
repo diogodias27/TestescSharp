@@ -1,0 +1,9 @@
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\bin\Release\TrocaDeVlores.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\bin\Release\TrocaDeVlores.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\bin\Release\TrocaDeVlores.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\obj\Release\TrocaDeVlores.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\obj\Release\TrocaDeVlores.frmTrocadeValores.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\obj\Release\TrocaDeVlores.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\obj\Release\TrocaDeVlores.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\obj\Release\TrocaDeVlores.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\LivroCasaDoCodigo\TrocaDeVlores\obj\Release\TrocaDeVlores.pdb
