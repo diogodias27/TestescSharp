@@ -1,0 +1,9 @@
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\bin\Debug\ControleSalario.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\bin\Debug\ControleSalario.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\bin\Debug\ControleSalario.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Debug\ControleSalario.Form1.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Debug\ControleSalario.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Debug\ControleSalario.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Debug\ControleSalario.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Debug\ControleSalario.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Debug\ControleSalario.csprojResolveAssemblyReference.cache

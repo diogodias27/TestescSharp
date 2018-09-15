@@ -1,0 +1,29 @@
+﻿@using Tut3.Controllers
+
+@{
+    ViewBag.Title = "Lista de funcionarios"; 
+}
+<h3>Lista de Funcionários</h3>
+
+<table border="1">
+    <tr>
+        <td style="font-weight: bold"> Identidade </td>
+        <td style="font-weight: bold"> Nome </td>
+        <td style="font-weight: bold"> Salário </td>
+    </tr>
+    
+    @foreach (var Emp in ViewBag.Empregados) 
+    { 
+        <tr>
+            <td>
+                @Emp.EmpId
+            </td>
+            <td>
+                @Emp.EmpName
+            </td>
+            <td>
+                @Emp.EmpSalary
+            </td>
+        </tr>      
+    }
+</table>

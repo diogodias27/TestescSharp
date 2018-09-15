@@ -1,0 +1,9 @@
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\bin\Debug\ProjectEuller.exe.config
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\bin\Debug\ProjectEuller.exe
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\bin\Debug\ProjectEuller.pdb
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\obj\Debug\ProjectEuller.csprojResolveAssemblyReference.cache
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\obj\Debug\ProjectEuller.Form1.resources
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\obj\Debug\ProjectEuller.Properties.Resources.resources
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\obj\Debug\ProjectEuller.csproj.GenerateResource.Cache
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\obj\Debug\ProjectEuller.exe
+c:\users\cliente\documents\visual studio 2012\Projects\ProjectEuller\ProjectEuller\obj\Debug\ProjectEuller.pdb

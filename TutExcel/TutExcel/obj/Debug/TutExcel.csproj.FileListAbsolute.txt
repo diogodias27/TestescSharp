@@ -1,0 +1,10 @@
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\bin\Debug\TutExcel.exe.config
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\obj\Debug\TutExcel.csprojResolveAssemblyReference.cache
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\obj\Debug\TutExcel.csproj.ResolveComReference.cache
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\obj\Debug\TutExcel.Form1.resources
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\obj\Debug\TutExcel.Properties.Resources.resources
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\obj\Debug\TutExcel.csproj.GenerateResource.Cache
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\bin\Debug\TutExcel.exe
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\bin\Debug\TutExcel.pdb
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\obj\Debug\TutExcel.exe
+c:\users\cliente\documents\visual studio 2012\Projects\TutExcel\TutExcel\obj\Debug\TutExcel.pdb

@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <meta charset="utf-8"? />
+    <link href="~/Content/Images/jquery-ui.css" rel="stylesheet" />
+    <link href="~/Content/Images/jquery-ui.theme.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-ui.js"></script>
+    <script src="~/scripts/jquery-ui.min.js"></script>
+</head>
+<body>
+    <div id="divClientes">
+        @Html.Action("List")        
+    </div>
+</body>
+</html>

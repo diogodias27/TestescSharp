@@ -1,0 +1,8 @@
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\bin\Release\ControleSalario.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\bin\Release\ControleSalario.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\bin\Release\ControleSalario.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Release\ControleSalario.Form1.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Release\ControleSalario.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Release\ControleSalario.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Release\ControleSalario.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ControleSalario\obj\Release\ControleSalario.pdb

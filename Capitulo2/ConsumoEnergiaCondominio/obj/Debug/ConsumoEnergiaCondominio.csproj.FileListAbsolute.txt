@@ -1,0 +1,8 @@
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.Form1.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.pdb

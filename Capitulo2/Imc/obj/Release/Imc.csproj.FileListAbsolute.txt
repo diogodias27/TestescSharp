@@ -1,0 +1,9 @@
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\bin\Release\Imc.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\bin\Release\Imc.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\bin\Release\Imc.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\obj\Release\Imc.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\obj\Release\Imc.Form1.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\obj\Release\Imc.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\obj\Release\Imc.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\obj\Release\Imc.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\Capitulo2\Imc\obj\Release\Imc.pdb

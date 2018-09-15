@@ -1,0 +1,9 @@
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\bin\Debug\CrudCsharpCorner_WF.exe.config
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\bin\Debug\CrudCsharpCorner_WF.exe
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\bin\Debug\CrudCsharpCorner_WF.pdb
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\obj\Debug\CrudCsharpCorner_WF.csprojResolveAssemblyReference.cache
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\obj\Debug\CrudCsharpCorner_WF.Form1.resources
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\obj\Debug\CrudCsharpCorner_WF.Properties.Resources.resources
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\obj\Debug\CrudCsharpCorner_WF.csproj.GenerateResource.Cache
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\obj\Debug\CrudCsharpCorner_WF.exe
+c:\users\cliente\documents\visual studio 2012\Projects\CrudCsharpCorner_WF\CrudCsharpCorner_WF\obj\Debug\CrudCsharpCorner_WF.pdb
