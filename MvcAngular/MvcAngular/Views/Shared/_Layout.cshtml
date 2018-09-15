@@ -1,0 +1,41 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="app">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.21/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.min.js"></script>
+    <Link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/app/app.js"></script>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Exemplo com Angular e JS</title>
+
+    @RenderSection("JavascriptHeader", required:false)
+</head>
+<body>
+    <div class="row">
+        <div class="navbar navbar-default">
+            <div class=" navbar-header">
+                <ul class="navbar navbar-nav">
+                    <li>
+                        <span class="navbar navbar-brand">Registration</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class=" nav navbar-nav">
+                    <li><a href="/Registration/Courses"></a></li>
+                    <li><a href="/Registration/Students"></a></li>
+                </ul>
+            </div>
+        </div>       
+    </div>
+    @RenderBody()
+</body>
+</html>

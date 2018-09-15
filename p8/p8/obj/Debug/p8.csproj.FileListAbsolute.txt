@@ -1,0 +1,9 @@
+c:\users\cliente\documents\visual studio 2012\Projects\p8\p8\bin\Debug\p8.exe.config
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\obj\Debug\p8.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\obj\Debug\p8.Form1.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\obj\Debug\p8.Properties.Resources.resources
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\obj\Debug\p8.csproj.GenerateResource.Cache
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\bin\Debug\p8.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\bin\Debug\p8.pdb
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\obj\Debug\p8.exe
+C:\Users\Cliente\Documents\Visual Studio 2012\Projects\p8\p8\obj\Debug\p8.pdb
