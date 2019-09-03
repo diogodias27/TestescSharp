@@ -8,11 +8,13 @@ namespace ControleDeEstoqueCPM.Controllers
 {
     public class RelatorioController : Controller
     {
-        // GET: Relatorios
+        // GET: Relatorios[Authorize]
         public ActionResult PosicaoEstoque()
         {
             return View();
-        }public ActionResult Ressuprimento()
+        }
+        [Authorize]
+        public ActionResult Ressuprimento()
         {
             return View();
         }
