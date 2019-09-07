@@ -19,6 +19,7 @@ namespace ControleDeEstoqueCPM.Controllers
         {
             return View();
         }
+        [Authorize]
         public ActionResult LancPerdasProdutos()
         {
             return View();

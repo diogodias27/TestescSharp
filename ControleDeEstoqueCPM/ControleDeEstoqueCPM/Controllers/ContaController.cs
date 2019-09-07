@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Security;
 
 namespace ControleDeEstoqueCPM.Controllers
 {
@@ -23,7 +24,33 @@ namespace ControleDeEstoqueCPM.Controllers
             {
                 return View(login);
             }
+            var achou = login.Usuario == "Diogo" && login.Senha == "123";
+
+            if (achou)
+            {
+                FormsAuthentication.SetAuthCookie(login.Usuario, login.LembrarMe);
+                if (Url.IsLocalUrl(returnUrl))
+                {
+                    return Redirect(returnUrl);
+                }
+                else
+                {
+                    RedirectToAction("Index", "Home");
+                }
+            }
+            else
+            {
+                ModelState.AddModelError("", "Login Invalido");
+            }
             return View(login);
         }
+        [HttpPost]
+        [AllowAnonymous]
+        public ActionResult LogOff()
+        {
+            FormsAuthentication.SignOut();
+            return RedirectToAction("Index", "Home");
+        }
+
     }
 }
