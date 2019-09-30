@@ -1,0 +1,11 @@
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\bin\Debug\netcoreapp3.0\GroupByMac.exe
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\bin\Debug\netcoreapp3.0\GroupByMac.deps.json
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\bin\Debug\netcoreapp3.0\GroupByMac.runtimeconfig.json
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\bin\Debug\netcoreapp3.0\GroupByMac.runtimeconfig.dev.json
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\bin\Debug\netcoreapp3.0\GroupByMac.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\bin\Debug\netcoreapp3.0\GroupByMac.pdb
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\obj\Debug\netcoreapp3.0\GroupByMac.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\obj\Debug\netcoreapp3.0\GroupByMac.AssemblyInfoInputs.cache
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\obj\Debug\netcoreapp3.0\GroupByMac.AssemblyInfo.cs
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\obj\Debug\netcoreapp3.0\GroupByMac.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\GroupByMac\GroupByMac\obj\Debug\netcoreapp3.0\GroupByMac.pdb
