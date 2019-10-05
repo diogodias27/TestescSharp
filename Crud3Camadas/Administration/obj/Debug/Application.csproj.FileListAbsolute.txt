@@ -1,0 +1,8 @@
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\bin\Debug\Administration.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\bin\Debug\Administration.pdb
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\bin\Debug\Repository.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\bin\Debug\Repository.pdb
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\obj\Debug\Application.csproj.CopyComplete
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\obj\Debug\Administration.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Administration\obj\Debug\Administration.pdb

@@ -62,13 +62,13 @@ namespace Administration
             }
         }
 
-        public DbDataReader Procurar(string usuarioId)
+        public DbDataReader Procurar(int usuarioId)
         {
             try
             {
                 string sql = "Select * from Usuarios Where UsuarioID =@usuarioId";
                 db.AddParameter("@usuarioId", usuarioId);
-                return db.ExecuteNonQuery(sql);
+                return db.ExecuteReader(sql);
             }
             catch (Exception)
             {

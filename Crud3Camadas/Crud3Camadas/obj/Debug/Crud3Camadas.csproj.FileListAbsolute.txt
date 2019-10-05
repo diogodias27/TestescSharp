@@ -1,0 +1,14 @@
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\bin\Debug\Crud3Camadas.exe.config
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\bin\Debug\Crud3Camadas.exe
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\bin\Debug\Crud3Camadas.pdb
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\bin\Debug\Administration.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\bin\Debug\Repository.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\bin\Debug\Administration.pdb
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\bin\Debug\Repository.pdb
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\obj\Debug\Crud3Camadas.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\obj\Debug\Crud3Camadas.Form1.resources
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\obj\Debug\Crud3Camadas.Properties.Resources.resources
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\obj\Debug\Crud3Camadas.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\obj\Debug\Crud3Camadas.csproj.CopyComplete
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\obj\Debug\Crud3Camadas.exe
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Crud3Camadas\obj\Debug\Crud3Camadas.pdb

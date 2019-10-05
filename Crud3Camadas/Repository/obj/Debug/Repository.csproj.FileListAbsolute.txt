@@ -1,0 +1,5 @@
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Repository\bin\Debug\Repository.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Repository\bin\Debug\Repository.pdb
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Repository\obj\Debug\Repository.dll
+C:\Users\Diogo\source\repos\diogodias27\TestescSharp\Crud3Camadas\Repository\obj\Debug\Repository.pdb
