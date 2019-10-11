@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebApresentation.Models.UsuarioModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table table-striped table-hover table-bordered" id="tbusuario">
+    <thead>
+        <tr>
+            <th> @Html.DisplayName("Nome")</th>
+            <th> @Html.DisplayName("Usuario")</th>
+            <th> @Html.DisplayName("Ativo")</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @item.sNome</td>
+                <td> @item.sLogin</td>
+
+                @{
+                    if (item.fAtivo == false)
+                    {
+                        <td> Inativo </td>
+                    }
+                    else
+                    {
+                        <td> Ativo </td>
+                    }
+                }
+
+            </tr>
+        }
+    </tbody>
+
+
+</table>
+
