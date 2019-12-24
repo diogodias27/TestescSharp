@@ -5,6 +5,7 @@
 
 <h2>Index</h2>
 
+@{ Html.RenderPartial("~/Views/Shared/_alerts.cshtml");}
 <table class="table table-striped table-hover table-bordered" id="tbusuario">
     <thead>
         <tr>
@@ -38,3 +39,6 @@
 
 </table>
 
+<div class="row">
+    <input type="button" class="btn-primary" value="Novo" />
+</div>

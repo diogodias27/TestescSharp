@@ -10,6 +10,8 @@ namespace WebApresentation.Controllers
     {
         public ActionResult Index()
         {
+            ViewData["Nome"] = "DIgo";
+
             return View();
         }
 

@@ -1,0 +1,25 @@
+﻿
+@{
+    var alerts = TempData.ContainsKey(WebApresentation.Helpers.Alert.TempDataKey) ?
+        (List<WebApresentation.Helpers.Alert>)TempData[WebApresentation.Helpers.Alert.TempDataKey] :
+        new List<WebApresentation.Helpers.Alert>();
+
+    if (alerts.Any())
+    {
+
+
+        foreach (var alert in alerts)
+        {
+            var dismissableClass = alert.Dissmissable ? "alert-dismissable" : null;
+
+        <div class="alert alert-@alert.AlertStyle @dismissableClass">
+            @if (alert.Dissmissable)
+            {
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            }
+            @Html.Raw(alert.Message)
+        </div>
+            }
+        }
+    }
+

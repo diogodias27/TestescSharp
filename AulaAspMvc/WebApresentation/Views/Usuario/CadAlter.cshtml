@@ -1,13 +1,14 @@
 ﻿@model WebApresentation.Models.UsuarioModel
 @{
     ViewBag.Title = "CadAlter";
+    Layout = "~/Views/Shared/_LayoutNew.cshtml";
 }
 
 <h2>Usuario Edição</h2>
 @using (Html.BeginForm("CadAlter", "Usuario", FormMethod.Post, new { id = "frmUsuario", enctype = "multipart/form-data" }))
 {
     <div class="row">
-        <div class="col-md-10">
+        <div class="col-md-3">
             <div class="form-group">
                 <label class="control-label">
                     @Html.LabelFor(x => x.sNome)
@@ -20,9 +21,7 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-10">
+        <div class="col-md-4">
             <div class="form-group">
                 <label class="control-label">
                     @Html.LabelFor(x => x.sLogin)
@@ -35,9 +34,12 @@
                 </div>
             </div>
         </div>
+
     </div>
     <div class="row">
-        <div class="col-md-10">
+    </div>
+    <div class="row">
+        <div class="col-md-6">
             <div class="form-group">
                 <label class="control-label">
                     @Html.LabelFor(x => x.sSenha)
@@ -50,10 +52,7 @@
                 </div>
             </div>
         </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-10">
+        <div class="col-md-2">
             <div class="form-group">
                 <label class="control-label">
                     @Html.LabelFor(x => x.fAtivo)
@@ -67,5 +66,6 @@
             </div>
         </div>
     </div>
+
     <input type="submit" value="Salvar!" />
-           }
+}

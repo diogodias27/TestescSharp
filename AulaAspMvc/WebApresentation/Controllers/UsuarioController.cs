@@ -7,7 +7,7 @@ using WebApresentation.Models;
 
 namespace WebApresentation.Controllers
 {
-    public class UsuarioController : Controller
+    public class UsuarioController : BaseController
     {
         // GET: Usuario
         public ActionResult Index()
@@ -60,19 +60,22 @@ namespace WebApresentation.Controllers
             {
                 if (ModelState.IsValid)
                 {
+                    Success("Usuario Cadastrado com sucesso!", true);
                     return RedirectToAction("Index");
 
                 }
                 else
                 {
+                    Warning("verifique todos os campos!", true);
                     return View(model);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
+                Danger($"Ocorreu um erro ${ex.Message}", true);
                 throw;
             }
         }
+
     }
 }

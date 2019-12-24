@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "_partialAbout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="col-md-3">@Html.TextBox("Endereco","", new { @placeholder = "Digite o endereço" })</div>
+    <div class="col-md-3">@Html.TextBox("bairro", "",new { @placeholder = "Digite o bairro" })</div>
+    <div class="col-md-3">@Html.TextBox("cep", "",new { @placeholder = "Digite o cep" })</div>
+    <div class="col-md-3">@Html.TextBox("cidade", "",new { @placeholder = "Digite o cidade" })</div>
+</div>
